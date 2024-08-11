@@ -8,3 +8,5 @@ def fact_message():
 
 for n in range(1, 5):
     print(fact_message())
+
+print("Вывод фактов о воде завершен!")
